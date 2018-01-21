@@ -14,3 +14,4 @@ I began the lesson by starting to write my stock which was relatively easily but
 
 After I had calculated the price of all of the order, which you can do by timesing the quantity of the product by the price of it, I could calculate the price if there was a certain discount. My only question is how I would do a discount if there only was a discount on one item.
 
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRG0I0gLJ-d_WNhZ6wT9MQHQGlmFeOZTvuDTJ9ynw0bGu0xYFpmMVzPr6D0uIo0mEeuV1ydsK3oAeV8/pubhtml
